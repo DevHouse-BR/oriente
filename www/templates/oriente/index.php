@@ -4,7 +4,7 @@
 * @file      index.php
 * @version   1.5.0 May 2010
 * @author    Oriente http://www.oriente.com.br
-* @copyright 
+* @copyright Copyright (C) 2007 - 2010 Oriente
 */
 
 // no direct access
@@ -210,23 +210,22 @@ include_once(dirname(__FILE__).'/config.php');
 					<jdoc:include type="yoomodules" name="bottom" wrapper="bottombox float-left" layout="<?php echo $this->params->get('bottom'); ?>" style="yoo" />
 				<?php endif; ?>
 				
-				<?php if($this->countModules('bottomblock')) : ?>
+				<?php //if($this->countModules('bottomblock')) : ?>
 				<div class="bottomblock width100 float-left">
 					<jdoc:include type="yoomodules" name="bottomblock" style="yoo" />
+					<br /><center>Desenvolvido por <a target="_blank" href="http://www.devhouse.com.br">DevHouse</a></center>
 				</div>
-				<?php endif; ?>
+				<?php //endif; ?>
 
 			</div>
 			<!-- bottom end -->
 			<?php endif; ?>
-
 			<?php if ($this->countModules('footer + debug')) : ?>
 			<div id="footer">
 
 				<a class="anchor" href="#page"></a>
 				<jdoc:include type="yoomodules" name="footer" />
 				<jdoc:include type="yoomodules" name="debug" />
-
 			</div>
 			<!-- footer end -->
 			<?php endif; ?>

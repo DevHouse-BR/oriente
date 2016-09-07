@@ -23,12 +23,13 @@ class JConfig {
 	var $caching = '0';
 	var $cachetime = '15';
 	var $cache_handler = 'file';
-	var $memcache_settings = array();
+	var $memcache_settings = array(
+		);
 	var $ftp_enable = '0';
 	var $ftp_host = '127.0.0.1';
 	var $ftp_port = '21';
 	var $ftp_user = 'admin';
-	var $ftp_pass = 'newlife2008';
+	var $ftp_pass = '';
 	var $ftp_root = '';
 	var $dbtype = 'mysql';
 	var $host = 'localhost';
@@ -55,4 +56,3 @@ class JConfig {
 	var $MetaKeys = 'Oriente, Limpeza, Dedetização, Recursos, Humanos, Joinville, Santa Catarina, Limpeza, Joinville, Emprego, Vagas, RH,Limpeza, Conservação, recrutamento e seleção, vagas joinville, seleção';
 	var $offline_message = 'Este site está em manutenção. Por favor, retorne mais tarde.';
 }
-?>

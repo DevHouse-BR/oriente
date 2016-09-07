@@ -38,7 +38,7 @@
 	height: 20px;
 	text-align: center;
 	color: #F6F4DA;
-	background-color: #DF9496;
+	background-color: #bc3118;
 }
 
 /* Today Event day cell hover Link / Visited*/
@@ -110,7 +110,7 @@
 .eventcalq caption.mod_eventlistcalq_calendar-month {
 	font: bold 12px/20px "Trebuchet MS", Arial, Verdana, Helvetica, sans-serif;
 	color: #ffffff;
-	background-color: #666666;
+	background-color: #3b0c06;
 	text-align: center;
 }
 

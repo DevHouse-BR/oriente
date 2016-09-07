@@ -1,4 +1,4 @@
-/* ie6fix.js,  */
+/* ie6fix.js, Copyright (C) 2007 - 2010 Oriente */
 
 function loadIE6Fix() {
 

@@ -1,4 +1,4 @@
-/* red.css,  */
+/* red.css, Copyright (C) 2007 - 2010 Oriente */
 
 /* layout */
 body.yoopage { background: #5F0E03; }
@@ -47,7 +47,7 @@ a:hover { color: #829D2D; }
 #menu a.level2 span.bg,
 #menu span.level2 span.bg,
 #menu a.level3 span.bg,
-#menu span.level3 span.bg { color: #635B54; }
+#menu span.level3 span.bg { color: #000000; }
 #menu li.level2.parent .hover-box1,
 #menu li.level2.parent .hover-box2,
 #menu li.level2.parent .hover-box3,

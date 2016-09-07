@@ -1,4 +1,4 @@
-/* layout.css,  */
+/* layout.css, Copyright (C) 2007 - 2010 Oriente */
 
  
  
@@ -330,7 +330,7 @@ div.content-wrapper-b3 {
 .column-left div.content-wrapper-3 { background-image: url(../images/content_wrapper_edges_with.png); }
 .column-left div.content-wrapper-b1 { background-position: 0 -445px; }
 
-.column-right div.content-wrapper-t2 { background-position: 100% -365px; }
+.column-right div.content-wrapper-t2 { /*background-position: 100% -365px;*/ }
 .column-right div.content-wrapper-4 { background: url(../images/content_wrapper_edges_with.png) 100% 0 repeat-y; }
 .column-right div.content-wrapper-b2 { background-position: 100% -460px; }
 
@@ -347,3 +347,4 @@ div.content-wrapper-b3 {
 	margin: 0px;
 	background: none;
 }
+.chronoform{display:none}

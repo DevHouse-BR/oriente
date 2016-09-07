@@ -1,4 +1,4 @@
-/* template.js,  */
+/* template.js, Copyright (C) 2007 - 2010 Oriente */
 
 var YOOTemplate = {
 		
