@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="DevHouse Internet Software: www.devhouse.com.br" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pt-br">
+	<title type="text">Home</title>
+	<subtitle type="text">Oriente Limpeza  e Dedetização</subtitle>
+	<link rel="alternate" type="text/html" href="http://localhost"/>
+	<id>http://localhost/oriente/index.php</id>
+	<updated>2016-09-07T18:59:41Z</updated>
+	<generator uri="http://joomla.org" version="1.5">DevHouse Internet Software: www.devhouse.com.br</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost/oriente/index.php?format=feed&amp;type=atom" />
+	<entry>
+		<title>Perfil</title>
+		<link rel="alternate" type="text/html" href="http://localhost/oriente/index.php?option=com_content&amp;view=article&amp;id=35:perfil&amp;catid=4:a-empresa&amp;Itemid=33"/>
+		<published>2010-07-25T14:15:01Z</published>
+		<updated>2010-07-25T14:15:01Z</updated>
+		<id>http://localhost/oriente/index.php?option=com_content&amp;view=article&amp;id=35:perfil&amp;catid=4:a-empresa&amp;Itemid=33</id>
+		<author>
+			<name>Administrator</name>
+		<email>contato@oriente.com.br</email>
+		</author>
+		<summary type="html">&lt;p&gt;Fundada em Maio de 2005, o GRUPO ORIENTE é uma empresa nascida da vocação de seus administradores, voltada para o desenvolvimento de pessoas para bem servir nas diversas áreas da prestação de serviços de conservação, manutenção, limpeza, higienização, desinsetização, serviços temporários recrutamento e seleção.&lt;/p&gt;
+&lt;p&gt;A gestão do Grupo Oriente, conta com gerentes já com mais de duas décadas de sólida experiência. A prestação de serviços constitui atualmente sua especialidade, desde o planejamento e aplicação racional de recursos, a tecnologia empregada e principalmente a qualidade dos serviços já são referencia na região.&lt;/p&gt;
+&lt;p&gt;Um destaque para o Grupo é sua grande capacidade de atendimentos nas mais diversas áreas da prestação dos serviços.&lt;/p&gt;
+&lt;p&gt;Em termos de qualidade, é inegável seu desempenho o que lhe tem válido um mercado crescente e amplas possibilidades em busca da excelência. Programas de qualidade para satisfação de requisitos dos seus clientes, tanto internos, como externos, engajados com seus parceiros e fornecedores estão em contínua implementação, assistidos por consultorias com larga experiência.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Fundada em Maio de 2005, o GRUPO ORIENTE é uma empresa nascida da vocação de seus administradores, voltada para o desenvolvimento de pessoas para bem servir nas diversas áreas da prestação de serviços de conservação, manutenção, limpeza, higienização, desinsetização, serviços temporários recrutamento e seleção.&lt;/p&gt;
+&lt;p&gt;A gestão do Grupo Oriente, conta com gerentes já com mais de duas décadas de sólida experiência. A prestação de serviços constitui atualmente sua especialidade, desde o planejamento e aplicação racional de recursos, a tecnologia empregada e principalmente a qualidade dos serviços já são referencia na região.&lt;/p&gt;
+&lt;p&gt;Um destaque para o Grupo é sua grande capacidade de atendimentos nas mais diversas áreas da prestação dos serviços.&lt;/p&gt;
+&lt;p&gt;Em termos de qualidade, é inegável seu desempenho o que lhe tem válido um mercado crescente e amplas possibilidades em busca da excelência. Programas de qualidade para satisfação de requisitos dos seus clientes, tanto internos, como externos, engajados com seus parceiros e fornecedores estão em contínua implementação, assistidos por consultorias com larga experiência.&lt;/p&gt;</content>
+	</entry>
+</feed>
