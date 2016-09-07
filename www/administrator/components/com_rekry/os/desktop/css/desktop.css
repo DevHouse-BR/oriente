@@ -1,0 +1,74 @@
+/*
+ * Ext JS Library 2.1
+ * Copyright(c) 2006-2008, Ext JS, LLC.
+ * licensing@extjs.com
+ * 
+ * http://extjs.com/license
+ */
+
+/*
+ * Ext JS Library 2.0
+ * Copyright(c) 2006-2007, Ext JS, LLC.
+ * licensing@extjs.com
+ * 
+ * http://www.extjs.com/license
+ */
+
+.icon-grid {
+    background-image:url( ../images/red.gif ) !important;
+}
+.add {
+    background-image:url(../icons/fam/add.gif) !important;
+}
+.option {
+    background-image:url(../icons/fam/plugin.gif) !important;
+}
+.remove {
+    background-image:url(../icons/fam/delete.gif) !important;
+}
+.save {
+    background-image:url(../icons/save.gif) !important;
+}
+.accordion {
+    background-image:url(../images/green.gif) !important;
+}
+.tabs {
+    background-image:url(../images/blue.gif) !important;
+}
+.new-opp {
+    background-image:url(../icons/fam/add.gif) !important;
+}
+.refresh-icon {
+    background-image:url(../icons/fam/table_refresh.png) !important;
+}
+.move-icon {
+    background-image:url(../icons/arrow-down.gif) !important;
+}
+.unlock-icon {
+    background-image:url(../icons/fam/connect.gif) !important;
+}
+.lock-icon {
+    background-image:url(../icons/fam/cross.gif) !important;
+}
+
+.new-tab {
+   background-image:url(../icons/fam/cog_edit.png) !important;
+}
+
+.copy-tab {
+   background-image:url(../icons/fam/image_add.png) !important;
+}
+
+/*  
+// Icon Classes */
+.icon-check, .icon-check-off {
+	background-image:url(../../ext/resources/images/default/menu/unchecked.gif) ! important;
+}
+.icon-check-on {
+	background-image:url(../../ext/resources/images/default/menu/checked.gif) ! important;
+}
+.icon-zoom {
+	background-image:url(../icons/zoom.png) ! important;
+}
+/*  Icon Classes end */
+

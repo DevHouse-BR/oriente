@@ -1,0 +1,24 @@
+/* rtl.css,  */
+
+/*
+ * rtl
+ */
+
+/* layout */
+#middle-expand {
+	position: relative;
+	right: -100%;
+}
+
+#mainmiddle-expand {
+	position: relative;
+	right: -100%;
+}
+
+/* menus */
+
+#menu .dropdown { right: -999em; }
+
+#menu li:hover .dropdown,
+#menu li.remain .dropdown,
+#menu li.hovered .dropdown { right: auto; }
